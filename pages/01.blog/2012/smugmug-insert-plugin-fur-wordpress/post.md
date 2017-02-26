@@ -2,7 +2,7 @@
 title: "Smugmug Insert Plugin für Wordpress"
 slug: "smugmug-insert-plugin-fur-wordpress"
 date: 29.8.2012 22:04:00
-image: "smugmug-plugin-wordpress-banner-1.png"
+image: "smugmug-plugin-wordpress-banner.png"
 taxonomy:
     category: blog
     tag: ["PHP", "Tech"]
