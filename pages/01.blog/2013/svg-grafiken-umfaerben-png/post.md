@@ -1,6 +1,6 @@
 ---
 title: "Svg-Grafiken umfärben und zu Png konvertieren"
-slug: "welcome-to-ghost"
+slug: "svg-grafiken-umfaerben-png"
 date: 1.9.2013 00:31:00
 image: "01_overview.png"
 taxonomy:
